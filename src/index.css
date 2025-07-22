@@ -1,0 +1,12 @@
+@import "tailwindcss";
+.viewer-wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.product-details {
+  padding: 20px;
+  background: #fefefe;
+  border-radius: 10px;
+}
